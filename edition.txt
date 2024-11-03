@@ -2,3 +2,4 @@ first
 second
 third
 hotfix team's solution 
+new function added
